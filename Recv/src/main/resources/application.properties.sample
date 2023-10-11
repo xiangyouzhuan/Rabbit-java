@@ -1,0 +1,7 @@
+host=RabbitMQ
+port=5672
+virtualHost=
+QUEUE_NAME=
+
+userName=
+password=
